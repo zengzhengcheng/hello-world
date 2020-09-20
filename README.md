@@ -1,3 +1,3 @@
 # hello-world
-forStudy
+forStudy \n
 vcccv
